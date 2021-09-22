@@ -1,0 +1,7 @@
+.chatwindow_content {
+    width: 80%;
+    margin: auto;
+    height: 70vh;
+    display: flex;
+    box-shadow: 0 0 10px rgb(0 0 0 / 17%);
+}

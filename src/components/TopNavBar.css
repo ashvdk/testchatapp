@@ -1,0 +1,13 @@
+
+.topnavbar_content {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.item1 {
+    margin-left: auto;
+    margin-right: 15px;
+}
+.item {
+    margin: 0px 10px;
+}

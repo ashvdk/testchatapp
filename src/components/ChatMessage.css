@@ -1,0 +1,4 @@
+.chatmessage:nth-child(even) {
+    margin-left: auto; 
+    width: 240px;
+}

@@ -1,0 +1,11 @@
+.pointer:nth-child(3) {
+    margin-left: auto;
+    margin-right: 30px;
+}
+.pointer:nth-child(2) {
+    margin-left: 30px;
+}
+.pointer:nth-child(4), .pointer:nth-child(5), .pointer:nth-child(6), .pointer:nth-child(7) {
+    margin-left: 10px;
+    margin-right: 10px;
+}

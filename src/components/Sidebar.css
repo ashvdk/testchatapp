@@ -1,0 +1,34 @@
+.sidebar {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.sidebar_header {
+    background: #7b7cf0;
+    color: white;
+    padding: 14px 6px;
+    border-bottom-left-radius: 21px;
+    border-right: 2px solid;
+}
+.sidebar_users {
+    flex: 1;
+    border-right: 1px solid lightgrey;
+}
+.sidebar_setting_header {
+    display: flex;
+}
+.sidebar_header_options {
+    display: flex;
+    margin-top: 10px;
+}
+.sidebar_header_options_button {
+    flex: 1;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 5px 0px;
+}
+.sidebar_header_options_button:nth-child(2) {
+    margin-left: 5px;
+    margin-right: 5px;
+}
